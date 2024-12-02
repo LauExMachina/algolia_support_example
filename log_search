@@ -1,0 +1,16 @@
+I/flutter (16387): Construction du widget de recherche.
+I/flutter (16387): Département changé : Ile-de-France
+I/flutter (16387): Construction du widget de recherche.
+I/flutter (16387): Ville changée : Paris
+I/flutter (16387): Construction du widget de recherche.
+I/flutter (16387): Début de la fonction executeSearch
+I/flutter (16387): Département sélectionné : Ile-de-France
+I/flutter (16387): Ville sélectionnée : Paris
+I/flutter (16387): Filtres construits : department:"Ile-de-France" AND city:"Paris"
+I/flutter (16387): Requête Algolia créée avec succès.
+I/flutter (16387): Requête envoyée à Algolia. Résultats trouvés : 2
+I/flutter (16387): Résultats traités avec succès : 2 résultats.
+I/flutter (16387): Fin de la fonction executeSearch
+I/flutter (16387): Construction du widget de recherche.
+I/flutter (16387): Affichage du résultat 0 : {path: users/4fzPo3Mi6HNIg0AEg5UexGsmOYn2, city: Arles, department: Bouches-du-Rhône (13), lastmodified: {_operation: IncrementSet, value: 1733158875385}, objectID: 4fzPo3Mi6HNIg0AEg5UexGsmOYn2}
+I/flutter (16387): Affichage du résultat 1 : {path: users/FhxKIvwuNqOc82ROLq7GL4MMmZ63, city: Nice, department: Alpes-Maritimes (06), lastmodified: {_operation: IncrementSet, value: 1733158875385}, objectID: FhxKIvwuNqOc82ROLq7GL4MMmZ63}
