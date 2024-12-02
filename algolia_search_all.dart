@@ -11,8 +11,8 @@ class AlgoliaSearchWidget extends StatefulWidget {
 class _AlgoliaSearchWidgetState extends State<AlgoliaSearchWidget> {
   // Configuration Algolia
   final Algolia _algolia = Algolia.init(
-    applicationId: 'AJTKLR4J89',
-    apiKey: 'ae4df4d943cf7713dbada08bbf08db41',
+    applicationId: 'it's ok i know that',
+    apiKey: 'it's ok i know that',
   );
 
   // Variables pour dropdowns
@@ -92,7 +92,7 @@ class _AlgoliaSearchWidgetState extends State<AlgoliaSearchWidget> {
             DropdownButton<String>(
               value: selectedDepartment,
               hint: const Text("Sélectionnez un département"),
-              items: <String>['Ile-de-France', 'Provence-Alpes-Côte d\'Azur']
+              items: <String>['Ile-de-France', 'Alpes-Maritimes']
                   .map((String value) {
                 return DropdownMenuItem<String>(
                   value: value,
